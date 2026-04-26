@@ -27,28 +27,28 @@ Gestion de stock dans le Banque de sang
 👉 Permet aux responsables de s'inscrire
 
 ### Interface Demande de dons
-![Demande de dons](images/Interface Demande de dons.png)
+![Demande de dons](images/Interface_Demande_de_dons.png)
 👉 permet aux utilisateurs de faire des demandes de dons
 
 ### Interface de prise de Rendez-Vous
-![Rendez-Vous](images/Interface de prise de RV.png)
+![Rendez-Vous](images/Interface_prise_de_RV.png)
 👉 permet aux donneurs de prendre des Rendez-Vous
 
 ### Interface de CRUD rendez-vous
-![ CRUD Rendez-Vous](images/CRUD Rendez-Vous.png)
+![ CRUD Rendez-Vous](images/CRUD_Rendez-Vous.png)
 👉 permet aux donneurs de modifier ou de supprimer un rendez-vous
 
 ### Interface de rappel de rendez-vous
-![ Rappel Rendez-Vous](images/Rappel Rendez-Vous.png)
+![ Rappel Rendez-Vous](images/Rappel_Rendez-Vous.png)
 👉 permet de rappeler les rendez-vous aux donneurs avant le jour
 
 ### Liste des Demandes de Dons
-![liste demandes de dons](images/Liste Demande Dons.png)
+![liste demandes de dons](images/Liste_Demande_Dons.png)
 👉 affiche la liste de toutes les demandes de dons faites
 
 
 ### Interface de stock de sang
-![Stock de sang](images/Gestion de stock de sang.png)
+![Stock de sang](images/Gestion_de_stock_de_sang.png)
 👉 affiche la liste de toutes les demandes de dons faites
 
 
