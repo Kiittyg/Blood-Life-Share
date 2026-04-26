@@ -49,7 +49,7 @@ Gestion de stock dans le Banque de sang
 
 ### Interface de stock de sang
 ![Stock de sang](images/Gestion_de_stock_de_sang.png)
-👉 affiche la liste de toutes les demandes de dons faites
+👉 affiche le stock de sang disponible
 
 
 ## 🔗 Lien GitHub: https://github.com/Kiittyg/Blood-Life-Share/tree/main/examen
