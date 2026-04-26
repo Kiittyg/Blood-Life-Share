@@ -1,0 +1,31 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('lignedons', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('don_id');
+            $table->foreignId('donneur_id');
+            $table->string('qualite');
+            $table->decimal('quantite', 10, 2);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('lignedons');
+    }
+};
