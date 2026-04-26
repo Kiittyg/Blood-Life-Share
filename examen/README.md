@@ -15,7 +15,7 @@ Gestion de stock dans le Banque de sang
 ## 📸 Captures d’écran
 
 ### Page de connexion
-![login](images/login.png)
+![login](images/Login.png)
 👉 Permet aux utilisateurs de se connecter
 
 ### Page d'inscription
